@@ -1,4 +1,4 @@
-Proyecto creado usando las tecnologías HTML, SCC, BOOSTRAP, SASS realizando cambios en las variables, utilizando diferentes tipos de elementos como mixins de Boostrap, haciendo muchos tipos de modificaciones.
+Proyecto diseñado usando las tecnologías HTML, SCC, BOOSTRAP, SASS realizando cambios en las variables, utilizando diferentes tipos de elementos como mixins de Boostrap, haciendo muchos tipos de modificaciones.
 
 
 <h1 align="center">Proyecto MEETI</h1>
