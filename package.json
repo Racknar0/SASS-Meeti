@@ -1,0 +1,16 @@
+{
+  "name": "03-meeti",
+  "version": "1.0.0",
+  "description": "Aprendiendo Boostrap5 y SASS",
+  "main": "index.js",
+  "scripts": {
+    "compilar:sass" : "sass --watch src/scss:build/css",
+    "build:sass" : "purgecss --css build/css/styles.css --content index.html --output build/css/meeti.css"
+  },
+  "author": "Camilo Torres",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^5.1.3",
+    "sass": "^1.49.7"
+  }
+}
